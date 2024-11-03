@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="300" sprite="pico" flipX="true" camx="-100" isPlayer="true" icon="pico" gameOverChar="dedpico">
+	<anim name="idle" anim="Pico Idle Dance" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Pico Note Right0" x="65" y="9" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Pico Down Note0" x="200" y="-70" fps="24" loop="false"/>
+	<anim name="singUP" anim="pico Up note0" x="-29" y="27" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Pico NOTE LEFT0" x="-68" y="-7" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="Pico Note Right Miss" x="62" y="64" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="Pico Down Note MISS" x="210" y="-28" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="pico Up note miss" x="-19" y="67" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="Pico NOTE LEFT miss" x="-60" y="41" fps="24" loop="false"/>
+</character>

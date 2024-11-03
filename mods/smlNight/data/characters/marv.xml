@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character y="150" sprite="Marvin" scale="0.93" flipX="true" isPlayer="true" icon="marv" color="#FF0000" gameOverChar="dedmarv" holdTime="6.1">
+	<anim name="idle" anim="Marvin Idle" x="0" y="0" fps="12" loop="true"/>
+	<anim name="singLEFT" anim="Marvin Left0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT" anim="Marvin Right0" x="6" y="-1" fps="12" loop="false"/>
+	<anim name="singUP" anim="Marvin Up0" x="-3" y="1" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="Marvin Down0" x="4" y="-7" fps="12" loop="false"/>
+	<anim name="singLEFTmiss" anim="Marvin LeftMISS0" x="-3" y="-1" fps="12" loop="false"/>
+	<anim name="singRIGHTmiss" anim="Marvin RightMISS0" x="5" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="Marvin UpMISS0" x="-10" y="5" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="Marvin DownMISS0" x="0" y="-15" fps="24" loop="false"/>
+	<anim name="hey" anim="Marvin HEY0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="scared" anim="Marvin MarvScared" x="0" y="0" fps="12" loop="false"/>
+</character>

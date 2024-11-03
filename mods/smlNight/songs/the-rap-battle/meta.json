@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "jeff",
+	"difficulties": [
+		"HARD"
+	],
+	"parsedColor": -786941,
+	"customValues": {},
+	"color": "#F3FE03",
+	"name": "the-rap-battle",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "The Rap Battle!",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 177
+}

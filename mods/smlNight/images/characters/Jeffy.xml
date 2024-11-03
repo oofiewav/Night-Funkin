@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jeffy.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="IDLE0000" x="1670" y="435" width="316" height="435" frameX="-93" frameY="-114" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="IDLE0001" x="1670" y="435" width="316" height="435" frameX="-93" frameY="-114" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="IDLE0002" x="695" y="529" width="327" height="428" frameX="-93" frameY="-119" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="IDLE0003" x="612" y="1055" width="318" height="434" frameX="-93" frameY="-114" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="IDLE0004" x="1670" y="0" width="316" height="435" frameX="-93" frameY="-114" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="IDLE0005" x="1670" y="435" width="316" height="435" frameX="-93" frameY="-114" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="IDLE0006" x="1670" y="435" width="316" height="435" frameX="-93" frameY="-114" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="IDLE0007" x="695" y="529" width="327" height="428" frameX="-93" frameY="-119" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="IDLE0008" x="612" y="1055" width="318" height="434" frameX="-93" frameY="-114" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="IDLE0009" x="1670" y="0" width="316" height="435" frameX="-93" frameY="-114" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="left0000" x="667" y="0" width="380" height="448" frameX="-17" frameY="-102" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="left0001" x="321" y="529" width="374" height="444" frameX="-24" frameY="-106" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="left0002" x="321" y="529" width="374" height="444" frameX="-24" frameY="-106" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="left0003" x="321" y="529" width="374" height="444" frameX="-24" frameY="-106" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="right0000" x="930" y="1055" width="320" height="429" frameX="-110" frameY="-121" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="right0001" x="1670" y="870" width="315" height="425" frameX="-110" frameY="-124" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="right0002" x="1670" y="870" width="315" height="425" frameX="-110" frameY="-124" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="right0003" x="1670" y="870" width="315" height="425" frameX="-110" frameY="-124" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="up0000" x="1370" y="0" width="300" height="478" frameX="-93" frameY="-80" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="up0001" x="306" y="1055" width="306" height="465" frameX="-95" frameY="-90" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="up0002" x="306" y="1055" width="306" height="465" frameX="-95" frameY="-90" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="up0003" x="306" y="1055" width="306" height="465" frameX="-95" frameY="-90" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="down0000" x="1250" y="1055" width="349" height="388" frameX="-82" frameY="-156" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="down0001" x="1022" y="529" width="332" height="396" frameX="-90" frameY="-150" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="down0002" x="1022" y="529" width="332" height="396" frameX="-90" frameY="-150" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="down0003" x="1022" y="529" width="332" height="396" frameX="-90" frameY="-150" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="unt0000" x="0" y="529" width="321" height="526" frameX="-93" frameY="-32" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="unt0001" x="1047" y="0" width="323" height="525" frameX="-93" frameY="-32" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="unt0002" x="0" y="0" width="333" height="529" frameX="-95" frameY="-26" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="unt0003" x="333" y="0" width="334" height="527" frameX="-95" frameY="-28" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="unt0004" x="0" y="1055" width="306" height="465" frameX="-95" frameY="-90" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoIDLE0000" x="0" y="1912" width="324" height="340" frameX="-139" frameY="-206" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoIDLE0001" x="0" y="1912" width="324" height="340" frameX="-139" frameY="-206" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoIDLE0002" x="1302" y="1520" width="335" height="333" frameX="-134" frameY="-210" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoIDLE0003" x="324" y="1912" width="328" height="335" frameX="-137" frameY="-210" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoIDLE0004" x="2311" y="0" width="324" height="339" frameX="-139" frameY="-207" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoIDLE0005" x="0" y="1912" width="324" height="340" frameX="-139" frameY="-206" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoIDLE0006" x="0" y="1912" width="324" height="340" frameX="-139" frameY="-206" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoIDLE0007" x="1302" y="1520" width="335" height="333" frameX="-134" frameY="-210" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoIDLE0008" x="324" y="1912" width="328" height="335" frameX="-137" frameY="-210" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoIDLE0009" x="2311" y="0" width="324" height="339" frameX="-139" frameY="-207" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoLEFT0000" x="1986" y="1189" width="324" height="393" frameX="-139" frameY="-153" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoLEFT0001" x="1986" y="398" width="324" height="396" frameX="-139" frameY="-150" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoLEFT0002" x="1986" y="398" width="324" height="396" frameX="-139" frameY="-150" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoLEFT0003" x="1986" y="398" width="324" height="396" frameX="-139" frameY="-150" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoRIGHT0000" x="330" y="1520" width="324" height="392" frameX="-139" frameY="-154" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoRIGHT0001" x="1986" y="794" width="324" height="395" frameX="-139" frameY="-151" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoRIGHT0002" x="1986" y="794" width="324" height="395" frameX="-139" frameY="-151" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoRIGHT0003" x="1986" y="794" width="324" height="395" frameX="-139" frameY="-151" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoUP0000" x="1986" y="0" width="325" height="398" frameX="-139" frameY="-148" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoUP0001" x="0" y="1520" width="330" height="392" frameX="-139" frameY="-154" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoUP0002" x="0" y="1520" width="330" height="392" frameX="-139" frameY="-154" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoUP0003" x="0" y="1520" width="330" height="392" frameX="-139" frameY="-154" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoDOWN0000" x="978" y="1520" width="324" height="381" frameX="-139" frameY="-165" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoDOWN0001" x="654" y="1520" width="324" height="388" frameX="-139" frameY="-158" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoDOWN0002" x="654" y="1520" width="324" height="388" frameX="-139" frameY="-158" frameWidth="564" frameHeight="567"/>
+	<SubTexture name="PianoDOWN0003" x="654" y="1520" width="324" height="388" frameX="-139" frameY="-158" frameWidth="564" frameHeight="567"/>
+</TextureAtlas>

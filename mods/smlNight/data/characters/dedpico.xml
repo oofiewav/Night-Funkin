@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character y="150" sprite="death" scale="0.5" flipX="true" isPlayer="true" icon="pico" gameOverChar="dedpico" holdTime="6.1">
+	<anim name="deathConfirm" anim="ded" x="0" y="0" fps="12" loop="false"/>
+	<anim name="firstDeath" anim="ded" x="0" y="0" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="ded" x="0" y="0" fps="24" loop="true"/>
+</character>

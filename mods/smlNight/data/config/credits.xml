@@ -1,0 +1,17 @@
+<!DOCTYPE codename-mod-credits>
+<!-- TEMPLATE FOR CUSTOM CREDITS!!! -->
+<menu name="Night Funkin" desc="Mod Demo Team">
+	<!-- \/ You can also set the portrait shader as false as you can see below in the github one -->
+    <credit name="WaXen" desc="Creator of this mod" icon="" size="" url="https://youtube.com/@waxen65"/>
+    <github user="n3therwordly" customName="LexodiuS"  desc="Lead Coder, Director, Composer!" size="100" portrait="true" />
+    <credit name= "Corperator" desc="Co-Director, Composer!" icon="" size="100" url="https://youtu.be/fugtxz1znVw"/> 
+    <credit name="TangleMango" desc="Composer" icon="tanglemango" size="127" url="https://x.com/mangotangle"/>
+    <credit name="SanterLmao" desc="Artist" icon="" url="https://x.com/Santer_Lmao"/>
+    <github user="TRSF-sonicman" customName="TRSF"  desc="Lead Musician, Secondary Coder" size="100" portrait="true" />
+    <github user="oofiewav" customName="Oofie"  desc="Third Coder" size="100" portrait="true" />
+    <credit name="GreyStorm" desc="Composed Brooklyn Guy's song!" icon="greystorm" size="110" url="https://www.youtube.com/@greystorm0656" />
+    <credit name="CharleyyyFan" desc="Animated Pooby and Rose!" icon="charleyyyfan420" size="110" url="https://x.com/PickleChinLam" />   
+    <credit name="TheDiabolicalArizona" desc="Drew the assets for Coward's Edge!" icon="tda" size="167" url="https://x.com/ElTrollizona69" />
+    <credit name="Sergi" desc="Drew Rose and BTG's Sprites!" icon="sergi" size="100" url="https://youtu.be/37HKGYI_Zt4"/>
+
+</menu>

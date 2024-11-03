@@ -1,0 +1,24 @@
+{
+	"params": [
+		{
+			"name": "zoom",
+			"type": "Float(0,100,0.01,3)",
+			"defaultValue": 1
+		},
+		{
+			"name": "rotation",
+			"type": "Float(0,360,0.01,3)",
+			"defaultValue": 0
+		},
+		{
+			"name": "tilt left (true) or right (false) (leave false if reseting rotation)",
+			"type": "Bool",
+			"defaultValue": false
+		},
+		{
+			"name": "Enable tween cancel",
+			"type": "Bool",
+			"defaultValue": true
+		}
+	]
+}

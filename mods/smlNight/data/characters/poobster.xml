@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="150" sprite="Pooby" scale="1.5" icon="poobster" color="#B56FBE" holdTime="6.1">
+	<anim name="idle" anim="idle" x="25" y="5" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="Left" x="-8" y="10" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right" x="-25" y="1" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up" x="30" y="46" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Down" x="-5" y="-10" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character y="150" sprite="Jr" scale="0.93" isPlayer="true" icon="jr" gameOverChar="dedjr" holdTime="6.1">
+	<anim name="idle" anim="Jr Jr-Idle0" x="0" y="0" fps="12" loop="true"/>
+	<anim name="singLEFT" anim="Jr Jr-Right0" x="20" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT" anim="Jr Jr-Left0" x="1" y="-1" fps="12" loop="false"/>
+	<anim name="singUP" anim="Jr Jr-Up0" x="-3" y="1" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="Jr Jr-Down0" x="9" y="-2" fps="12" loop="false"/>
+	<anim name="singLEFTmiss" anim="Jr Jr-Miss-Left0" x="-2" y="-1" fps="12" loop="false"/>
+	<anim name="singRIGHTmiss" anim="Jr Jr-Miss-Right0" x="15" y="0" fps="12" loop="false"/>
+	<anim name="singUPmiss" anim="Jr Jr-Up-Miss0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWNmiss" anim="Jr Jr-Down-Miss0" x="5" y="0" fps="12" loop="false"/>
+</character>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Chef-Pee-Pee.png">
+<SubTexture name="Chef-Pee-Pee PP-Idle0000" x="2269" y="603" width="555" height="601" frameX="-50" frameY="-39" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Idle0001" x="1126" y="1234" width="565" height="605" frameX="-38" frameY="-35" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Idle0002" x="1701" y="0" width="568" height="607" frameX="-35" frameY="-33" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Idle0003" x="0" y="1234" width="569" height="606" frameX="-34" frameY="-34" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Left0000" x="2894" y="1194" width="608" height="595" frameX="0" frameY="-45" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Left0001" x="2894" y="0" width="608" height="598" frameX="0" frameY="-42" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Left0002" x="2269" y="1204" width="606" height="599" frameX="-2" frameY="-41" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Left0003" x="1886" y="1840" width="602" height="599" frameX="-5" frameY="-41" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Right0000" x="2269" y="0" width="625" height="603" frameX="-11" frameY="-37" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Right0001" x="0" y="1840" width="626" height="603" frameX="-10" frameY="-37" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Right0002" x="626" y="1840" width="629" height="600" frameX="-7" frameY="-40" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Right0003" x="1255" y="1840" width="631" height="600" frameX="-6" frameY="-40" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Down0000" x="1127" y="2443" width="551" height="582" frameX="-40" frameY="-58" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Down0001" x="569" y="2443" width="558" height="584" frameX="-38" frameY="-56" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Down0002" x="0" y="2443" width="569" height="585" frameX="-35" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Down0003" x="2894" y="1789" width="571" height="587" frameX="-34" frameY="-53" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Up0000" x="0" y="0" width="561" height="619" frameX="-48" frameY="-21" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Up0001" x="561" y="0" width="567" height="618" frameX="-41" frameY="-22" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Up0002" x="1128" y="0" width="573" height="616" frameX="-34" frameY="-24" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-Up0003" x="0" y="619" width="575" height="615" frameX="-32" frameY="-25" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-JR0000" x="1678" y="2443" width="563" height="579" frameX="-46" frameY="-61" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-JR0001" x="2241" y="2443" width="551" height="576" frameX="-53" frameY="-64" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-JR0002" x="2894" y="598" width="530" height="596" frameX="-67" frameY="-44" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-JR0003" x="1691" y="1234" width="557" height="605" frameX="-65" frameY="-35" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-JR0004" x="575" y="619" width="560" height="611" frameX="-71" frameY="-29" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-JR0005" x="1135" y="619" width="565" height="610" frameX="-75" frameY="-30" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-JR0006" x="1701" y="607" width="561" height="606" frameX="-79" frameY="-34" frameWidth="640" frameHeight="640" />
+<SubTexture name="Chef-Pee-Pee PP-JR0007" x="569" y="1234" width="557" height="606" frameX="-81" frameY="-34" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

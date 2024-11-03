@@ -1,0 +1,34 @@
+{
+	"params": [
+		{
+			"name": "zoom",
+			"type": "Float(0,100,0.01,3)",
+			"defaultValue": 1
+		},
+		{
+			"name": "rotation",
+			"type": "Float(0,360,0.01,3)",
+			"defaultValue": 0
+		},
+		{
+			"name": "tilt left (true) or right (false) (leave false if reseting rotation)",
+			"type": "Bool",
+			"defaultValue": false
+		},
+		{
+			"name": "steps",
+			"type": "Int(1,1000,0.01,3)",
+			"defaultValue": 4
+		},
+		{
+			"name": "ease",
+			"type": "DropDown('linear', 'sine', 'quad', 'cube', 'quart', 'quint', 'expo', 'back', 'elastic', 'bounce', 'circ')",
+			"defaultValue": "linear"
+		},
+		{
+			"name": "ease direction",
+			"type": "DropDown('In', 'Out', 'InOut')",
+			"defaultValue": "Out"
+		}
+	]
+}

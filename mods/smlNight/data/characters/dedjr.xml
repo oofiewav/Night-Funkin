@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character y="150" sprite="Jr" scale="0.93" isPlayer="true" icon="dad" gameOverChar="dedjr" holdTime="6.1">
+	<anim name="deathConfirm" anim="Jr Jr-Retry" x="0" y="0" fps="12" loop="false"/>
+	<anim name="deathLoop" anim="Jr Jr-GameOver-Loop" x="0" y="0" fps="24" loop="true"/>
+	<anim name="firstDeath" anim="Jr Jr-GameOver0" x="0" y="0" fps="12" loop="false"/>
+</character>

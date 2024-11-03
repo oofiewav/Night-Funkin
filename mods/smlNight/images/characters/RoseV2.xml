@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RoseV2.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance-left0000" x="0" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0001" x="0" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0002" x="442" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0003" x="442" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0004" x="884" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0005" x="884" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0006" x="1326" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0007" x="1326" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0008" x="1768" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0009" x="1768" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0010" x="1768" y="0" width="442" height="598"/>
+	<SubTexture name="dance-left0011" x="1768" y="0" width="442" height="598"/>
+	<SubTexture name="dance-right0000" x="0" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0001" x="0" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0002" x="415" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0003" x="415" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0004" x="830" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0005" x="830" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0006" x="1245" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0007" x="1245" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0008" x="1660" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0009" x="1660" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0010" x="1660" y="598" width="415" height="598"/>
+	<SubTexture name="dance-right0011" x="1660" y="598" width="415" height="598"/>
+</TextureAtlas>

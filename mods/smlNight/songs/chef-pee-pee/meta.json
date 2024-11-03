@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"HARD"
+	],
+	"icon": "face",
+	"parsedColor": -7179779,
+	"coopAllowed": false,
+	"name": "chef-pee-pee",
+	"color": "#9271FD",
+	"customValues": {},
+	"stepsPerBeat": 4,
+	"displayName": "Chef Pee Pee's Hit Single!",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 173
+}

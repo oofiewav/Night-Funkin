@@ -1,0 +1,14 @@
+{
+	"params": [
+		{
+			"name": "Artist",
+			"type": "String",
+			"defaultValue": ""
+		},
+        {
+			"name": "Fade out Timer",
+			"type": "String",
+			"defaultValue": "2"
+		}
+	]
+}

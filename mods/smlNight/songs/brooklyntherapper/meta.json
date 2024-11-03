@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "brookie",
+	"difficulties": [
+		"HARD"
+	],
+	"parsedColor": -8627148,
+	"customValues": {},
+	"color": "#7C5C34",
+	"name": "brooklyntherapper",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Brooklyn Rapper Guy!",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 160
+}

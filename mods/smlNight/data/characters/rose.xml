@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character y="150" sprite="RoseV2" scale="0.65" icon="rose" holdTime="6.1">
+	<anim name="danceLeft" anim="dance-right" x="0" y="0" fps="24" loop="false"/>
+	<anim name="danceRight" anim="dance-left" x="57" y="-1" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character y="150" sprite="Marvin" scale="0.93" flipX="true" isPlayer="true" icon="marv" color="#FF0000" gameOverChar="dedmarv" holdTime="6.1">
+	<anim name="deathConfirm" anim="Marvin MarvRETRY0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="deathLoop" anim="Marvin MarvGAMEOVERloop" x="0" y="0" fps="24" loop="true"/>
+	<anim name="firstDeath" anim="Marvin MarvGAMEOVER0" x="0" y="0" fps="8" loop="false"/>
+</character>

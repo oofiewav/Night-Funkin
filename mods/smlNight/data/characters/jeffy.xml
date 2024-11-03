@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character y="150" sprite="jeff" scale="0.8" icon="jeff" holdTime="6.1">
+	<anim name="idle" anim="IDLE" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="left" x="90" y="-143" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right" x="-39" y="-139" fps="24" loop="false"/>
+	<anim name="singUP" anim="up" x="-110" y="-56" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="dewn" x="-30" y="-151" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="piano0" x="-37" y="-138" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="piano0" x="-37" y="-138" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="piano0" x="-37" y="-138" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="piano0" x="-37" y="-138" fps="24" loop="false"/>
+</character>

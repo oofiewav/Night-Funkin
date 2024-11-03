@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.05" name="couch" folder="stages/couch/" startCamPosY="480" startCamPosX="180">
+
+	<sprite sprite="couchAssets" name="bg"  x="0" y="0"  scroll="1">
+		<anim x="0" loop="false" y="0" fps="24" anim="Couch_Back_BG" type="loop" name="idle"/>
+	</sprite>
+	<sprite sprite="couchAssets" name="frontBg"  x="0" y="0"  scroll="1">
+		<anim x="0" loop="false" y="0" fps="24" anim="Couch_Front_BG" type="loop" name="idle"/>
+	</sprite>
+
+	<!-- CHARACTERS -->
+	<girlfriend x="790" y="150" scroll="1"/>
+	<dad x="265" y="150"/>
+	<boyfriend x="645" y="138"/>
+</stage>
