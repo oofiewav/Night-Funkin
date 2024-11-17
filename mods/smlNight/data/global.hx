@@ -39,7 +39,7 @@ function preStateSwitch(){
     window.setIcon(Image.fromBytes(Assets.getBytes(Paths.image('game/icon'))));
     for (redirectState in redirectStates.keys())
         if (Std.isOfType(FlxG.game._requestedState, redirectState))
-            //FlxG.game._requestedState = new UIState(true, redirectStates.get(redirectState));
+            FlxG.game._requestedState = new UIState(true, redirectStates.get(redirectState));
 }
 
 function destroy(){

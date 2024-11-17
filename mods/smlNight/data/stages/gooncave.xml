@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.00" name="gooncave" folder="stages/gooncave/" startCamPosY="480" startCamPosX="180">
+	<sprite name="bg" x="-35" y="0" sprite="bg" scale= "1.25"/>
+	<sprite name="table" x="-35" y="0" sprite="table" scale= "1.15"/>
+	
+	<combo x= "1000" y = "1000"/>
+
+
+
+	<!--Characters-->
+	<gf alpha="0.00001" />
+	<boyfriend alpha="0.00001" camxoffset= "-285" camyoffset= "-150" />
+	<dad x="295" y="-100" camxoffset= "-170" camyoffset= "115" scale= "0.25" alpha= "0" />
+	<sprite name="light" x="-35" y="0" sprite="light" scale= "1.15" alpha= "0"/>
+	<sprite name= "wires" x="0" y="0" sprite="wires"/>
+	
+</stage>

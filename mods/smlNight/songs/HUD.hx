@@ -1,3 +1,4 @@
+//boiiiiiiii
 import flixel.FlxG;
 import flixel.ui.FlxBar;
 import flixel.util.FlxStringUtil;
@@ -14,13 +15,12 @@ var songsHideHud:Array<Dynamic> = [
     "The Coward's Edge!"
 ];
 
-
 var scoreTxtTween:FlxTween;
 var missesTxtTween:FlxTween;
 var accuracyTxtTween:FlxTween;
 
 function postCreate() {
-    for (e in [scoreTxt, missesTxt, accuracyTxt, iconP2, healthBar, healthBarBG]) {
+    for (e in [scoreTxt, missesTxt, accuracyTxt, healthBar, healthBarBG]) {
         e.visible = false;
     }
 
@@ -59,15 +59,10 @@ function postCreate() {
 
     doIconBop = false;
 
-    iconP1.scale.x = iconP1.scale.y = 1;
+    iconP1.scale.x = iconP1.scale.y = iconP2.scale.x = iconP2.scale.y = 1;
 
     if(songsHideHud.contains(SONG.meta.displayName)) {
         for(i in [newScoreTxt, newMissesTxt, newAccuracyTxt, timeBar, playback]) {
-            i.visible = false;
-        }
-    }
-    if(SONG.meta.displayName == "Chef Pee Pee's Hit Single!") {
-        for(i in [timeBar, playback]) {
             i.visible = false;
         }
     }
@@ -76,27 +71,33 @@ function postCreate() {
 function postUpdate() 
 {
     iconP1.x = 1130;
+    iconP2.x = 860;
 
     iconP1.y = healthBar.y - 100;
+    iconP2.y = healthBar.y - 100;
 
-    if(downscroll) 
+    if(downscroll) {
         iconP1.y = healthBar.y - 125;
+        iconP2.y = healthBar.y - 125;
+    }
 
     var rating:String = getRating(accuracy);
     var acc = (FlxMath.roundDecimal(accuracy * 100, 2) == -100 ? "0.00%" : FlxMath.roundDecimal(accuracy * 100, 2) + '%');
 
     iconP1.scale.set(lerp(iconP1.scale.x, 0.95, 0.1), lerp(iconP1.scale.y, 0.95, 0.1));
+    iconP2.scale.set(lerp(iconP2.scale.x, 0.95, 0.1), lerp(iconP2.scale.y, 0.95, 0.1));
 
     if (inst != null && timeBar != null && timeBar.max != inst.length) timeBar.setRange(0, Math.max(1, inst.length));
     playback.x = lerp(-10, 1280, timeBar.percent / 100, true);
 
     newScoreTxt.text = "SCORE: " + songScore;
     newMissesTxt.text = "MISSES: " + misses;
-    newAccuracyTxt.text = "RATING: " + rating;
+    newAccuracyTxt.text = "RATING: " + rating + " (" + acc + ")";
 }
 
 function beatHit(curBeat){
     iconP1.scale.set(1.2,1.2);
+    iconP2.scale.set(1.2,1.2);
 }
 
 function getRating(accuracy:Float):String {

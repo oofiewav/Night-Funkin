@@ -1,0 +1,14 @@
+{
+	"params": [
+		{
+			"name": "Text",
+			"type": "String",
+			"defaultValue": ""
+		},
+        {
+			"name": "Visible",
+			"type": "Bool",
+			"defaultValue": "true"
+		}
+	]
+}

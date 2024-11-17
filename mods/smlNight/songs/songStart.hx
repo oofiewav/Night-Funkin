@@ -3,14 +3,16 @@
 // window stuff too - oofie
 
 function postCreate() {
-    camGame.visible = false;
-    camHUD.visible = false;
+	camGame.visible = false;
+	
+    camHUD.alpha = 0;
+	FlxTween.tween(camHUD, {alpha: 1}, 1.0, {ease: FlxEase.quadInOut});
+	
     window.title = "SML Movie: " + SONG.meta.displayName;
 }
 
 function onSongStart() {
     camGame.visible = true;
-    camHUD.visible = true;
 }
 
 function onGamePause() 

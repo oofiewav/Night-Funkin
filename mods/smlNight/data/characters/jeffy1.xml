@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character y="150" sprite="Jeffy" scale="1.09" icon="jeff" holdTime="3">
+<character y="150" sprite="Jeffy" scale="1.09" icon="jeffy" holdTime="3">
 	<anim name="idle" anim="IDLE" x="0" y="0" fps="12" loop="true"/>
 	<anim name="yell" anim="unt" x="0" y="0" fps="12" loop="false"/>
 	<anim name="singDOWN" anim="down" x="-2" y="-6" fps="12" loop="false"/>
